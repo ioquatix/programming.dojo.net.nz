@@ -1,56 +1,56 @@
 <content:page>
-  <header>
-    <content:heading>Java</content:heading>
+	<header>
+		<content:heading>Java</content:heading>
 
-    <p>Java is a <content:tt>statically typed</content:tt> <content:tt>object oriented</content:tt> programming language. It was designed as a language for <content:tt>cross platform</content:tt> application development.</p>
-  </header>
+		<p>Java is a <content:tt>statically typed</content:tt> <content:tt>object oriented</content:tt> programming language. It was designed as a language for <content:tt>cross platform</content:tt> application development.</p>
+	</header>
 
-  <main>
-    <p>Java is generally <content:tt>compiled</content:tt> to <content:tt>bytecode</content:tt> that is then <content:tt>interpreted</content:tt> by the Java Virtual Machine. This allows the same <content:tt>bytecode</content:tt> to run on multiple platforms. The HotSpot JVM may also compile bytecode to native machine code for additional performance.</p>
+	<main>
+		<p>Java is generally <content:tt>compiled</content:tt> to <content:tt>bytecode</content:tt> that is then <content:tt>interpreted</content:tt> by the Java Virtual Machine. This allows the same <content:tt>bytecode</content:tt> to run on multiple platforms. The HotSpot JVM may also compile bytecode to native machine code for additional performance.</p>
 
-    <p>Other languages such as <content:tt>JRuby</content:tt> and <content:tt>Clojure</content:tt> can also run on top of the JVM, which makes it an interesting platform for programming language development.</p>
+		<p>Other languages such as <content:tt>JRuby</content:tt> and <content:tt>Clojure</content:tt> can also run on top of the JVM, which makes it an interesting platform for programming language development.</p>
 
-    <h2>Why would I learn this language?</h2>
+		<h2>Why would I learn this language?</h2>
 
-    <p>Java is a great language because it aims to provides a "write once, run anywhere" environment. While in practice, there are always additional complexities, Java code is generally cross platform.</p>
+		<p>Java is a great language because it aims to provides a "write once, run anywhere" environment. While in practice, there are always additional complexities, Java code is generally cross platform.</p>
 
-    <p>Java provides a highly structured environment which tends to promote good practices when it comes to software development, especially when more than one person is working on the source code.</p>
+		<p>Java provides a highly structured environment which tends to promote good practices when it comes to software development, especially when more than one person is working on the source code.</p>
 
-    <p>Java is not a purely <content:tt>object oriented</content:tt> language, because it has primitive types (which are not objects). This creates imperfections in both syntactic and semantic constructs within the language.</p>
+		<p>Java is not a purely <content:tt>object oriented</content:tt> language, because it has primitive types (which are not objects). This creates imperfections in both syntactic and semantic constructs within the language.</p>
 
-    <p>Due to the nature of all Java, code must always be defined within the scope of a class. This can requires a large amount of boiler plate code in certain scenarios.</p>
+		<p>Due to the nature of all Java, code must always be defined within the scope of a class. This can requires a large amount of boiler plate code in certain scenarios.</p>
 
-    <h2>Starting Points</h2>
+		<h2>Starting Points</h2>
 
-    <dl class="resources">
-      <dt><a href="http://netbeans.org/kb/articles/learn-java.html">Learning Java - Resources</a></dt>
-      <dd>A fantastic set of resources for different levels of programmers.</dd>
+		<dl class="resources">
+			<dt><a href="http://netbeans.org/kb/articles/learn-java.html">Learning Java - Resources</a></dt>
+			<dd>A fantastic set of resources for different levels of programmers.</dd>
 
 
-      <dt><a href="http://java.sun.com/new2java/">New to Java Programming Center</a></dt>
-      <dd>A set of resources for new programmers who want to understand the different capabilities of Java.</dd>
+			<dt><a href="http://java.sun.com/new2java/">New to Java Programming Center</a></dt>
+			<dd>A set of resources for new programmers who want to understand the different capabilities of Java.</dd>
 
-      <dt><a href="http://java.sun.com/docs/books/tutorial/">The Java Tutorials</a></dt>
-      <dd>Practical guide for programmers who want to use the Java programming language.</dd>
-    </dl>
+			<dt><a href="http://java.sun.com/docs/books/tutorial/">The Java Tutorials</a></dt>
+			<dd>Practical guide for programmers who want to use the Java programming language.</dd>
+		</dl>
 
-    <h2>Further Reading</h2>
+		<h2>Further Reading</h2>
 
-    <ul>
-      <li><a href="http://en.wikipedia.org/wiki/Java_(programming_language)">Wikipedia: Java</a></li>
-      <li><a href="http://www.java.com/">Java</a> (Main Website)</li>
-    </ul>
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Java_(programming_language)">Wikipedia: Java</a></li>
+			<li><a href="http://www.java.com/">Java</a> (Main Website)</li>
+		</ul>
 
-    <h2>Example Code</h2>
+		<h2>Example Code</h2>
 
-    <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/fizzbuzzjava">here</a>.</p>
+		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/fizzbuzzjava">here</a>.</p>
 
-    <content:listing src="fizz-buzz-example.txt" brush="java" />
+		<content:listing src="fizz-buzz-example.txt" brush="java" />
 
-    <p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/100doorsjava">here</a>.</p>
+		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/100doorsjava">here</a>.</p>
 
-    <content:listing src="100-doors-example.txt" brush="java" />
+		<content:listing src="100-doors-example.txt" brush="java" />
 
-    <content:comments />
-  </main>
+		<content:comments />
+	</main>
 </content:page>
