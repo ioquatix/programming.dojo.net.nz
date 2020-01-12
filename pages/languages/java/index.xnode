@@ -10,7 +10,7 @@
 
     <p>Other languages such as <content:tt>JRuby</content:tt> and <content:tt>Clojure</content:tt> can also run on top of the JVM, which makes it an interesting platform for programming language development.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>Java is a great language because it aims to provides a "write once, run anywhere" environment. While in practice, there are always additional complexities, Java code is generally cross platform.</p>
 
@@ -20,7 +20,7 @@
 
     <p>Due to the nature of all Java, code must always be defined within the scope of a class. This can requires a large amount of boiler plate code in certain scenarios.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://netbeans.org/kb/articles/learn-java.html">Learning Java - Resources</a></dt>
@@ -34,14 +34,14 @@
       <dd>Practical guide for programmers who want to use the Java programming language.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/Java_(programming_language)">Wikipedia: Java</a></li>
       <li><a href="http://www.java.com/">Java</a> (Main Website)</li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/fizzbuzzjava">here</a>.</p>
 

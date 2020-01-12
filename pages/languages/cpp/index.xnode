@@ -8,7 +8,7 @@
   <main>
     <p>C++ is generally <content:tt>compiled</content:tt> and compilers exist for many platforms, however due to the complexity of the C++ standard, compilers don't always behave the same way.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>C++ is in some ways a super-set of <a href="../c">C</a>. It was originally called "C with Objects". It adds many advanced language features such as classes, namespaces, exceptions and meta-programming.</p>
 
@@ -16,7 +16,7 @@
 
     <p>C++ provides a useful level of abstraction and performance, and is used in both application development. The majority of computer games are written using C++.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://www.cplusplus.com/doc/tutorial/introduction/">C++ Language Tutorial</a></dt>
@@ -26,7 +26,7 @@
       <dd>A manual that provides an introduction to the GNU C and C++ compilers.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/C++">Wikipedia: C++</a></li>
@@ -34,7 +34,7 @@
       <li><a href="http://www.parashift.com/c%2B%2B-faq-lite/">C++ FAQ</a></li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzcpp">here</a>.</p>
 

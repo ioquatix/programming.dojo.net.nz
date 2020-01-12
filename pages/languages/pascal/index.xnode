@@ -8,7 +8,7 @@
   <main>
     <p>Several derivatives of Pascal exist which enhance the language, such as <content:tt>Object Pascal</content:tt>.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>Pascal is considered to be one of a few languages which one can learn completely. The language is deliberately limited and (by default) there are few external libraries. In this sense, learning Pascal is a finite process.</p>
 
@@ -16,7 +16,7 @@
 
     <p>Pascal is a fairly well established language, but is also not very modern.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://www.taoyue.com/tutorials/pascal/">Learn Pascal</a></dt>
@@ -26,13 +26,13 @@
       <dd>Open Source Compiler for Pascal and Object Pascal.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/Pascal_(programming_language)">Wikipedia: Pascal</a></li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>Here is an example of the <content:tt>Fizz Buzz</content:tt> problem:</p>
 

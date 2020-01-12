@@ -8,11 +8,11 @@
   <main>
     <p>Scheme can be both <content:tt>compiled</content:tt> and <content:tt>interpreted</content:tt>.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>Scheme is a syntactically simple language with many interesting features such as homoiconicity. It provides a powerful environment for learning about algorithms and functional programming, and computer science concepts in general.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://www.schemers.org/Education/">Schemers.org: Education</a></dt>
@@ -31,7 +31,7 @@
       <dd>A complete beginners guide to programming with Scheme and designing programs.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/Scheme_(programming_language)">Wikipedia: Scheme</a></li>
@@ -40,7 +40,7 @@
       <li><a href="http://www.plai.org/">Programming Languages: Application and Interpretation</a></li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzscm">here</a>.</p>
 

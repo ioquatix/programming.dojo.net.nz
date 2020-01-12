@@ -8,13 +8,13 @@
   <main>
     <p>Perl has <content:tt>imperative</content:tt>, <content:tt>functional</content:tt> and <content:tt>object oriented</content:tt> features, including both <content:tt>lexical scoping</content:tt> and <content:tt>dynamic scoping</content:tt> (although the latter isn't used much). Perl source code is executed by the Perl <content:tt to="interpreted">interpreter</content:tt> which internally <content:tt>compiles</content:tt> the code to bytecode for better performance.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>Perl is a flexible dynamic programming language with many features. It is a great tool for system administration, web development and software testing.</p>
 
     <p>Perl code is very succinct and can be written very quickly, while still having good performance.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://perl-begin.org/">Perl Beginners' Site</a></dt>
@@ -27,14 +27,14 @@
       <dd>A beginner guide to install program using Perl.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/Perl_(programming_language)">Wikipedia: Perl</a></li>
       <li><a href="http://www.perl.org/">Perl</a> (Main Website)</li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>Here is an example of the <content:tt>Fizz Buzz</content:tt> problem:</p>
 

@@ -8,7 +8,7 @@
   <main>
     <p>JavaScript is generally <content:tt>interpreted</content:tt>.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>JavaScript is the language of the internet. To create an interactive website, JavaScript is the best choice. The web browser is a very capable application development platform and is available for the majority of platforms.</p>
 
@@ -16,7 +16,7 @@
 
     <p>JavaScript is a semantically simple language with first-class functions. This makes it very easy to use advanced functional concepts.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://eloquentjavascript.net/">Eloquent JavaScript</a></dt>
@@ -35,7 +35,7 @@
       <dd>A fantastic toolbox for writing simple cross-browser JavaScript code. Includes support for many advanced features.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/JavaScript">Wikipedia: JavaScript</a></li>
@@ -43,7 +43,7 @@
       <li><a href="http://www.codinghorror.com/blog/2008/08/secrets-of-the-javascript-ninjas.html">Secrets of the JavaScript Ninjas</a></li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzjs">here</a>.</p>
 

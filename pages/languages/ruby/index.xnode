@@ -6,7 +6,7 @@
   </header>
 
   <main>
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>Ruby is a both powerful and easy to learn. It has a syntax which feels natural and is also very flexible.</p>
 
@@ -14,7 +14,7 @@
 
     <p>Ruby is a cross platform development language with multiple implementations, including MRI (the default implementation), <a href="http://www.jruby.org/">JRuby</a>, <a href="http://ironruby.net/">IronRuby</a> and <a href="http://rubini.us/">Rubinius</a>.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://tryruby.org/">Try Ruby</a></dt>
@@ -30,7 +30,7 @@
       <dd>A tutorial and reference for the Ruby programming language.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Wikipedia: Ruby</a></li>
@@ -38,7 +38,7 @@
       <li><a href="http://www.rubyonrails.org/">Ruby on Rails</a></li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzrb">here</a>.</p>
 
