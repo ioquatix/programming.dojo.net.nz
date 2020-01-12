@@ -1,38 +1,42 @@
 <content:page>
-	<content:heading>C#</content:heading>
-	
-	<p>C# was originally designed by Microsoft as an application development language and thus has many features in common with <a href="../java">Java</a>. It is now standardised and there are several implementations that run on a variety of platforms. C# is a <content:tt>statically typed</content:tt> <content:tt>imperative</content:tt> programming language with both <content:tt>functional</content:tt> and <content:tt>object oriented</content:tt> features.</p>
-	
-	<h3>Why would I learn this language?</h3>
-	
-	<p>C# is a modern, fully featured programming language. It is built on top of the CLR which provides a wide range of APIs from 3D graphics to databases.</p>
-	
-	<p>Specifically, using Mono.NET it is possible to develop cross-platform desktop applications, web applications and games.</p>
-	
-	<h3>Starting Points</h3>
-	
-	<dl class="resources">
-		<dt><a href="http://www.mono-project.com/Introduction_to_developing_with_Mono">Introduction to developing with Mono</a></dt>
-		<dd>A short guide to C# including a Hello World example.</dd>
-	</dl>
-	
-	<h3>Further Reading</h3>
-	
-	<ul>
-		<li><a href="http://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Wikipedia: C#</a></li>
-		<li><a href="http://en.wikipedia.org/wiki/Mono_(software)">Wikipedia: Mono</a></li>
-		<li><a href="http://unity3d.com/">Unity 3D</a></li>
-	</ul>
+  <header>
+    <content:heading>C#</content:heading>
 
-	<h3>Example Code</h3>
+    <p>C# was originally designed by Microsoft as an application development language and thus has many features in common with <a href="../java">Java</a>. It is now standardised and there are several implementations that run on a variety of platforms. C# is a <content:tt>statically typed</content:tt> <content:tt>imperative</content:tt> programming language with both <content:tt>functional</content:tt> and <content:tt>object oriented</content:tt> features.</p>
+  </header>
 
-	<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzcs">here</a>.</p>
+  <main>
+    <h3>Why would I learn this language?</h3>
 
-	<content:listing src="fizz-buzz-example.txt" brush="c-sharp" />
+    <p>C# is a modern, fully featured programming language. It is built on top of the CLR which provides a wide range of APIs from 3D graphics to databases.</p>
 
-	<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorscs">here</a>.</p>
+    <p>Specifically, using Mono.NET it is possible to develop cross-platform desktop applications, web applications and games.</p>
 
-	<content:listing src="100-doors-example.txt" brush="c-sharp" />
+    <h3>Starting Points</h3>
 
-	<comments />
+    <dl class="resources">
+      <dt><a href="http://www.mono-project.com/Introduction_to_developing_with_Mono">Introduction to developing with Mono</a></dt>
+      <dd>A short guide to C# including a Hello World example.</dd>
+    </dl>
+
+    <h3>Further Reading</h3>
+
+    <ul>
+      <li><a href="http://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Wikipedia: C#</a></li>
+      <li><a href="http://en.wikipedia.org/wiki/Mono_(software)">Wikipedia: Mono</a></li>
+      <li><a href="http://unity3d.com/">Unity 3D</a></li>
+    </ul>
+
+    <h3>Example Code</h3>
+
+    <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzcs">here</a>.</p>
+
+    <content:listing src="fizz-buzz-example.txt" brush="c-sharp" />
+
+    <p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorscs">here</a>.</p>
+
+    <content:listing src="100-doors-example.txt" brush="c-sharp" />
+
+    <content:comments />
+  </main>
 </content:page>
