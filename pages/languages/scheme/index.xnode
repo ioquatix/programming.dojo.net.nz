@@ -1,55 +1,59 @@
 <content:page>
-	<content:heading>Scheme</content:heading>
-	
-	<p>Scheme is one of the main dialects of <content:tt>LISP</content:tt> and is a <content:tt>dynamically typed</content:tt> impure <content:tt>functional</content:tt> programming language.</p>
-	
-	<p>Scheme can be both <content:tt>compiled</content:tt> and <content:tt>interpreted</content:tt>.</p>
+  <header>
+    <content:heading>Scheme</content:heading>
 
-	<h3>Why would I learn this language?</h3>
+    <p>Scheme is one of the main dialects of <content:tt>LISP</content:tt> and is a <content:tt>dynamically typed</content:tt> impure <content:tt>functional</content:tt> programming language.</p>
+  </header>
 
-	<p>Scheme is a syntactically simple language with many interesting features such as homoiconicity. It provides a powerful environment for learning about algorithms and functional programming, and computer science concepts in general.</p>
-	
-	<h3>Starting Points</h3>
+  <main>
+    <p>Scheme can be both <content:tt>compiled</content:tt> and <content:tt>interpreted</content:tt>.</p>
 
-	<dl class="resources">
-		<dt><a href="http://www.schemers.org/Education/">Schemers.org: Education</a></dt>
-		<dd>A set of resources for people interested in Scheme as a tool in education.</dd>
+    <h3>Why would I learn this language?</h3>
 
-		<dt><a href="http://www.crockford.com/javascript/scheme.html">Little Scheme</a></dt>
-		<dd>An online Scheme evaluator which can be used to run simple Scheme code.</dd>
+    <p>Scheme is a syntactically simple language with many interesting features such as homoiconicity. It provides a powerful environment for learning about algorithms and functional programming, and computer science concepts in general.</p>
 
-		<dt><a href="http://www.htdp.org/">How To Design Programs</a></dt>
-		<dd>A complete teaching guide and student resource for learning about computer programming and computer science.</dd>
+    <h3>Starting Points</h3>
 
-		<dt><a href="http://plt-scheme.org/">PLT Scheme</a></dt>
-		<dd>PLT Scheme is an entire software stack including IDE for developing Scheme programs.</dd>
+    <dl class="resources">
+      <dt><a href="http://www.schemers.org/Education/">Schemers.org: Education</a></dt>
+      <dd>A set of resources for people interested in Scheme as a tool in education.</dd>
 
-		<dt><a href="http://www.htdp.org/">How to Design Programs</a></dt>
-		<dd>A complete beginners guide to programming with Scheme and designing programs.</dd>
-	</dl>
-	
-	<h3>Further Reading</h3>
-	
-	<ul>
-		<li><a href="http://en.wikipedia.org/wiki/Scheme_(programming_language)">Wikipedia: Scheme</a></li>
-		<li><a href="http://en.wikipedia.org/wiki/Homoiconicity">Wikipedia: Homoiconicity</a></li>
-		<li><a href="http://www.defmacro.org/ramblings/lisp.html">The Nature of Lisp</a></li>
-		<li><a href="http://www.plai.org/">Programming Languages: Application and Interpretation</a></li>
-	</ul>
+      <dt><a href="http://www.crockford.com/javascript/scheme.html">Little Scheme</a></dt>
+      <dd>An online Scheme evaluator which can be used to run simple Scheme code.</dd>
 
-	<h3>Example Code</h3>
+      <dt><a href="http://www.htdp.org/">How To Design Programs</a></dt>
+      <dd>A complete teaching guide and student resource for learning about computer programming and computer science.</dd>
 
-	<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzscm">here</a>.</p>
+      <dt><a href="http://plt-scheme.org/">PLT Scheme</a></dt>
+      <dd>PLT Scheme is an entire software stack including IDE for developing Scheme programs.</dd>
 
-	<content:listing src="fizz-buzz-example.txt" brush="lisp" />
-	
-	<p>Here is an example of the <content:tt>100 doors</content:tt> problem implemented using functional concepts:</p>
+      <dt><a href="http://www.htdp.org/">How to Design Programs</a></dt>
+      <dd>A complete beginners guide to programming with Scheme and designing programs.</dd>
+    </dl>
 
-	<content:listing src="100-doors-example-functional.txt" brush="lisp" />
+    <h3>Further Reading</h3>
 
-	<p>Here is an example of the <content:tt>100 doors</content:tt> problem implemented using imperative concepts:</p>
+    <ul>
+      <li><a href="http://en.wikipedia.org/wiki/Scheme_(programming_language)">Wikipedia: Scheme</a></li>
+      <li><a href="http://en.wikipedia.org/wiki/Homoiconicity">Wikipedia: Homoiconicity</a></li>
+      <li><a href="http://www.defmacro.org/ramblings/lisp.html">The Nature of Lisp</a></li>
+      <li><a href="http://www.plai.org/">Programming Languages: Application and Interpretation</a></li>
+    </ul>
 
-	<content:listing src="100-doors-example-imperative.txt" brush="lisp" />
+    <h3>Example Code</h3>
 
-	<comments />
+    <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzscm">here</a>.</p>
+
+    <content:listing src="fizz-buzz-example.txt" brush="lisp" />
+
+    <p>Here is an example of the <content:tt>100 doors</content:tt> problem implemented using functional concepts:</p>
+
+    <content:listing src="100-doors-example-functional.txt" brush="lisp" />
+
+    <p>Here is an example of the <content:tt>100 doors</content:tt> problem implemented using imperative concepts:</p>
+
+    <content:listing src="100-doors-example-imperative.txt" brush="lisp" />
+
+    <content:comments />
+  </main>
 </content:page>
