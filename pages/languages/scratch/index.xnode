@@ -6,7 +6,7 @@
   </header>
 
   <main>
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>Here is an example of the <content:tt>100 doors</content:tt> problem. You can download this program: <a href="Scratch - 100 Doors.zip">Scratch - 100 Doors.zip</a> and try it out.</p>
 
@@ -14,7 +14,7 @@
       <img src="example.png" />
     </div>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>Scratch is a great language for people who are not yet familiar with programming language syntax or structure. It provides a simple framework for exploring programming concepts.</p>
 

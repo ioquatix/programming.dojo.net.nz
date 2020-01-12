@@ -8,7 +8,7 @@
   <main>
     <p>PHP is designed for developing web applications, and generally has little use in other scenarios. It is easy to integrate with a wide range of other technologies.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>PHP as an environment is very easy to deploy. It is generally combined with Linux, Apache and MySQL (a LAMP setup). This makes it ideal for simple web applications and projects.</p>
 
@@ -16,21 +16,21 @@
 
     <p>PHP provides integration with many other libraries, such as databases, image manipulation and network communication. However, each external library tends to have its own syntax and semantic behavior. This can make larger programs unmanageable without careful planning.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://en.wikibooks.org/wiki/PHP_Programming">PHP Programming Wikibook</a></dt>
       <dd>A comprehensive guide to learning to program using PHP.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/PHP">Wikipedia: PHP</a></li>
       <li><a href="http://www.php.net/">PHP: Hypertext Preprocessor</a> (Main Website)</li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzphp">here</a>.</p>
 

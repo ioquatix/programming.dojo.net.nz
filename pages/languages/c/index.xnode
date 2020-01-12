@@ -10,7 +10,7 @@
 
     <p>Many languages have been derived from C (either in terms of syntax or semantics), such as <content:tt to="cpp">C++</content:tt>, <content:tt>Objective-C</content:tt>, <content:tt>PHP</content:tt>, <content:tt>Java</content:tt> and <content:tt>Python</content:tt> to name a few.</p>
 
-    <h3>Why would I learn this language?</h3>
+    <h2>Why would I learn this language?</h2>
 
     <p>C is a low-level programming language which is useful for writing operating systems and embedded systems. It is often also used for application programming (including game development) and server programming due to its integration with the system and external libraries.</p>
 
@@ -20,7 +20,7 @@
 
     <p>For all its flaws, C is a popular language and is used throughout the industry, and its syntax is the basis for many other programming languages.</p>
 
-    <h3>Starting Points</h3>
+    <h2>Starting Points</h2>
 
     <dl class="resources">
       <dt><a href="http://cprog.tomsweb.net/cintro.html">An introduction to C</a></dt>
@@ -33,14 +33,14 @@
       <dd>An introduction to programming C for beginners.</dd>
     </dl>
 
-    <h3>Further Reading</h3>
+    <h2>Further Reading</h2>
 
     <ul>
       <li><a href="http://en.wikipedia.org/wiki/C_(programming_language)">Wikipedia: C</a></li>
       <li><a href="http://en.wikipedia.org/wiki/GNU_Compiler_Collection">Wikipedia: GNU Compiler Collection</a></li>
     </ul>
 
-    <h3>Example Code</h3>
+    <h2>Example Code</h2>
 
     <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzc">here</a>.</p>
 
