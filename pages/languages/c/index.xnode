@@ -1,55 +1,55 @@
 <content:page>
-  <header>
-    <content:heading>C</content:heading>
+	<header>
+		<content:heading>C</content:heading>
 
-    <p>C was developed in the early 1970s as a programming language for <content:tt>Unix</content:tt>. It is a <content:tt>statically typed</content:tt> <content:tt>imperative</content:tt> language that was designed to encourage machine-independent programming.</p>
-  </header>
+		<p>C was developed in the early 1970s as a programming language for <content:tt>Unix</content:tt>. It is a <content:tt>statically typed</content:tt> <content:tt>imperative</content:tt> language that was designed to encourage machine-independent programming.</p>
+	</header>
 
-  <main>
-    <p>C is generally <content:tt>compiled</content:tt> and compilers are widely available for many hardware platforms and operating systems. Because of this, it has become a baseline for programming in the modern computing environment.</p>
+	<main>
+		<p>C is generally <content:tt>compiled</content:tt> and compilers are widely available for many hardware platforms and operating systems. Because of this, it has become a baseline for programming in the modern computing environment.</p>
 
-    <p>Many languages have been derived from C (either in terms of syntax or semantics), such as <content:tt to="cpp">C++</content:tt>, <content:tt>Objective-C</content:tt>, <content:tt>PHP</content:tt>, <content:tt>Java</content:tt> and <content:tt>Python</content:tt> to name a few.</p>
+		<p>Many languages have been derived from C (either in terms of syntax or semantics), such as <content:tt to="cpp">C++</content:tt>, <content:tt>Objective-C</content:tt>, <content:tt>PHP</content:tt>, <content:tt>Java</content:tt> and <content:tt>Python</content:tt> to name a few.</p>
 
-    <h2>Why would I learn this language?</h2>
+		<h2>Why would I learn this language?</h2>
 
-    <p>C is a low-level programming language which is useful for writing operating systems and embedded systems. It is often also used for application programming (including game development) and server programming due to its integration with the system and external libraries.</p>
+		<p>C is a low-level programming language which is useful for writing operating systems and embedded systems. It is often also used for application programming (including game development) and server programming due to its integration with the system and external libraries.</p>
 
-    <p>C syntax is generally simple, but its type system often makes source code complex and difficult to read and write.</p>
+		<p>C syntax is generally simple, but its type system often makes source code complex and difficult to read and write.</p>
 
-    <p>C is generally available for most platforms, however it is generally hard to write cross-platform applications without using advanced supporting tools.</p>
+		<p>C is generally available for most platforms, however it is generally hard to write cross-platform applications without using advanced supporting tools.</p>
 
-    <p>For all its flaws, C is a popular language and is used throughout the industry, and its syntax is the basis for many other programming languages.</p>
+		<p>For all its flaws, C is a popular language and is used throughout the industry, and its syntax is the basis for many other programming languages.</p>
 
-    <h2>Starting Points</h2>
+		<h2>Starting Points</h2>
 
-    <dl class="resources">
-      <dt><a href="http://cprog.tomsweb.net/cintro.html">An introduction to C</a></dt>
-      <dd>An extensive tutorial covering many C features.</dd>
+		<dl class="resources">
+			<dt><a href="http://cprog.tomsweb.net/cintro.html">An introduction to C</a></dt>
+			<dd>An extensive tutorial covering many C features.</dd>
 
-      <dt><a href="http://www.network-theory.co.uk/docs/gccintro/index.html">An Introduction to GCC</a></dt>
-      <dd>A manual that provides an introduction to the GNU C and C++ compilers.</dd>
+			<dt><a href="http://www.network-theory.co.uk/docs/gccintro/index.html">An Introduction to GCC</a></dt>
+			<dd>A manual that provides an introduction to the GNU C and C++ compilers.</dd>
 
-      <dt><a href="http://beej.us/guide/bgc/">Beej's Guide to C Programming</a></dt>
-      <dd>An introduction to programming C for beginners.</dd>
-    </dl>
+			<dt><a href="http://beej.us/guide/bgc/">Beej's Guide to C Programming</a></dt>
+			<dd>An introduction to programming C for beginners.</dd>
+		</dl>
 
-    <h2>Further Reading</h2>
+		<h2>Further Reading</h2>
 
-    <ul>
-      <li><a href="http://en.wikipedia.org/wiki/C_(programming_language)">Wikipedia: C</a></li>
-      <li><a href="http://en.wikipedia.org/wiki/GNU_Compiler_Collection">Wikipedia: GNU Compiler Collection</a></li>
-    </ul>
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/C_(programming_language)">Wikipedia: C</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/GNU_Compiler_Collection">Wikipedia: GNU Compiler Collection</a></li>
+		</ul>
 
-    <h2>Example Code</h2>
+		<h2>Example Code</h2>
 
-    <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzc">here</a>.</p>
+		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzc">here</a>.</p>
 
-    <content:listing src="fizz-buzz-example.txt" brush="clang" />
+		<content:listing src="fizz-buzz-example.txt" brush="clang" />
 
-    <p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsc">here</a>.</p>
+		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsc">here</a>.</p>
 
-    <content:listing src="100-doors-example.txt" brush="clang" />
+		<content:listing src="100-doors-example.txt" brush="clang" />
 
-    <content:comments />
-  </main>
+		<content:comments />
+	</main>
 </content:page>

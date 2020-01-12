@@ -1,52 +1,52 @@
 <content:page>
-  <header>
-    <content:heading>Haskell</content:heading>
+	<header>
+		<content:heading>Haskell</content:heading>
 
-    <p>Haskell is a <content:tt>statically typed</content:tt> pure <content:tt>functional</content:tt> programming language. It is based on highly sound academic theory and principal. Haskell has pioneered many modern concepts in functional programming such as <content:tt>monads</content:tt>, <content:tt>currying</content:tt> and advanced <content:tt>type inference</content:tt>.</p>
-  </header>
+		<p>Haskell is a <content:tt>statically typed</content:tt> pure <content:tt>functional</content:tt> programming language. It is based on highly sound academic theory and principal. Haskell has pioneered many modern concepts in functional programming such as <content:tt>monads</content:tt>, <content:tt>currying</content:tt> and advanced <content:tt>type inference</content:tt>.</p>
+	</header>
 
-  <main>
-    <p>Haskell can be either <content:tt>compiled</content:tt> or <content:tt>interpreted</content:tt> depending on the programming environment being used.</p>
+	<main>
+		<p>Haskell can be either <content:tt>compiled</content:tt> or <content:tt>interpreted</content:tt> depending on the programming environment being used.</p>
 
-    <h2>Why would I learn this language?</h2>
+		<h2>Why would I learn this language?</h2>
 
-    <p>Haskell is an advanced programming language based on rigorous theory. It has a strict type system that allows for many programming errors to be caught at compile time and has a functional design that makes concurrency and parallelism relatively easy.</p>
+		<p>Haskell is an advanced programming language based on rigorous theory. It has a strict type system that allows for many programming errors to be caught at compile time and has a functional design that makes concurrency and parallelism relatively easy.</p>
 
-    <p>Knowledge of higher order functions can provide the programmer with unique ways of solving certain problems, and lazy evaluation can make certain kinds of algorithms possible that aren't possible to implement in other languages (without modification of the algorithm)</p>
+		<p>Knowledge of higher order functions can provide the programmer with unique ways of solving certain problems, and lazy evaluation can make certain kinds of algorithms possible that aren't possible to implement in other languages (without modification of the algorithm)</p>
 
-    <h2>Starting Points</h2>
+		<h2>Starting Points</h2>
 
-    <dl class="resources">
-      <dt><a href="http://tryhaskell.org/">Try Haskell</a></dt>
-      <dd>An online interactive tutorial.</dd>
+		<dl class="resources">
+			<dt><a href="http://tryhaskell.org/">Try Haskell</a></dt>
+			<dd>An online interactive tutorial.</dd>
 
-      <dt><a href="http://learnyouahaskell.com/">Learn You a Haskell for Great Good!</a></dt>
-      <dd>Comprehensive Set Tutorials &mdash; suitable for introduction to programming.</dd>
+			<dt><a href="http://learnyouahaskell.com/">Learn You a Haskell for Great Good!</a></dt>
+			<dd>Comprehensive Set Tutorials &mdash; suitable for introduction to programming.</dd>
 
-      <dt><a href="http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes">Learn Haskell in 10 minutes</a></dt>
-      <dd>A quick introduction to programming with Haskell suitable for those already familiar with programming.</dd>
+			<dt><a href="http://www.haskell.org/haskellwiki/Learn_Haskell_in_10_minutes">Learn Haskell in 10 minutes</a></dt>
+			<dd>A quick introduction to programming with Haskell suitable for those already familiar with programming.</dd>
 
-      <dt><a href="http://hackage.haskell.org/platform/new/contents.html">Haskell: Batteries Included</a></dt>
-      <dd>Set of resources for learning and teaching Haskell.</dd>
-    </dl>
+			<dt><a href="http://hackage.haskell.org/platform/new/contents.html">Haskell: Batteries Included</a></dt>
+			<dd>Set of resources for learning and teaching Haskell.</dd>
+		</dl>
 
-    <h2>Further Reading</h2>
+		<h2>Further Reading</h2>
 
-    <ul>
-      <li><a href="http://en.wikipedia.org/wiki/Haskell_(programming_language)">Wikipedia: Haskell</a></li>
-      <li><a href="http://www.haskell.org/">Haskell</a> (Main Website)</li>
-    </ul>
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Haskell_(programming_language)">Wikipedia: Haskell</a></li>
+			<li><a href="http://www.haskell.org/">Haskell</a> (Main Website)</li>
+		</ul>
 
-    <h2>Example Code</h2>
+		<h2>Example Code</h2>
 
-    <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzhs">here</a>.</p>
+		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzhs">here</a>.</p>
 
-    <content:listing src="fizz-buzz-example.txt" brush="haskell" />
+		<content:listing src="fizz-buzz-example.txt" brush="haskell" />
 
-    <p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorshs">here</a>.</p>
+		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorshs">here</a>.</p>
 
-    <content:listing src="100-doors-example.txt" brush="haskell" />
+		<content:listing src="100-doors-example.txt" brush="haskell" />
 
-    <content:comments />
-  </main>
+		<content:comments />
+	</main>
 </content:page>
