@@ -1,43 +1,47 @@
 <content:page>
-	<content:heading>Pascal</content:heading>
-	
-	<p>Pascal is a <content:tt>statically typed</content:tt> programming language. It was designed as a language for education. It is generally a <content:tt>compiled</content:tt> language.</p>
-	
-	<p>Several derivatives of Pascal exist which enhance the language, such as <content:tt>Object Pascal</content:tt>.</p>
+  <header>
+    <content:heading>Pascal</content:heading>
 
-	<h3>Why would I learn this language?</h3>
+    <p>Pascal is a <content:tt>statically typed</content:tt> programming language. It was designed as a language for education. It is generally a <content:tt>compiled</content:tt> language.</p>
+  </header>
 
-	<p>Pascal is considered to be one of a few languages which one can learn completely. The language is deliberately limited and (by default) there are few external libraries. In this sense, learning Pascal is a finite process.</p>
-	
-	<p>Pascal has a simple syntax and easy to understand type system. Programs are generally fairly easy to read and write.</p>
-	
-	<p>Pascal is a fairly well established language, but is also not very modern.</p>
-	
-	<h3>Starting Points</h3>
+  <main>
+    <p>Several derivatives of Pascal exist which enhance the language, such as <content:tt>Object Pascal</content:tt>.</p>
 
-	<dl class="resources">
-		<dt><a href="http://www.taoyue.com/tutorials/pascal/">Learn Pascal</a></dt>
-		<dd>Beginner guide to programming using Pascal.</dd>
+    <h3>Why would I learn this language?</h3>
 
-		<dt><a href="http://www.freepascal.org/">Free Pascal</a></dt>
-		<dd>Open Source Compiler for Pascal and Object Pascal.</dd>
-	</dl>
-	
-	<h3>Further Reading</h3>
-	
-	<ul>
-		<li><a href="http://en.wikipedia.org/wiki/Pascal_(programming_language)">Wikipedia: Pascal</a></li>
-	</ul>
+    <p>Pascal is considered to be one of a few languages which one can learn completely. The language is deliberately limited and (by default) there are few external libraries. In this sense, learning Pascal is a finite process.</p>
 
-	<h3>Example Code</h3>
+    <p>Pascal has a simple syntax and easy to understand type system. Programs are generally fairly easy to read and write.</p>
 
-	<p>Here is an example of the <content:tt>Fizz Buzz</content:tt> problem:</p>
+    <p>Pascal is a fairly well established language, but is also not very modern.</p>
 
-	<content:listing src="fizz-buzz-example.txt" brush="pascal" />
+    <h3>Starting Points</h3>
 
-	<p>Here is an example of the <content:tt>100 doors</content:tt> problem:</p>
+    <dl class="resources">
+      <dt><a href="http://www.taoyue.com/tutorials/pascal/">Learn Pascal</a></dt>
+      <dd>Beginner guide to programming using Pascal.</dd>
 
-	<content:listing src="100-doors-example.txt" brush="pascal" />
-	
-	<comments />
+      <dt><a href="http://www.freepascal.org/">Free Pascal</a></dt>
+      <dd>Open Source Compiler for Pascal and Object Pascal.</dd>
+    </dl>
+
+    <h3>Further Reading</h3>
+
+    <ul>
+      <li><a href="http://en.wikipedia.org/wiki/Pascal_(programming_language)">Wikipedia: Pascal</a></li>
+    </ul>
+
+    <h3>Example Code</h3>
+
+    <p>Here is an example of the <content:tt>Fizz Buzz</content:tt> problem:</p>
+
+    <content:listing src="fizz-buzz-example.txt" brush="pascal" />
+
+    <p>Here is an example of the <content:tt>100 doors</content:tt> problem:</p>
+
+    <content:listing src="100-doors-example.txt" brush="pascal" />
+
+    <content:comments />
+  </main>
 </content:page>
