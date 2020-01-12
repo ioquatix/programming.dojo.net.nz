@@ -1,41 +1,45 @@
 <content:page>
-	<content:heading>PHP</content:heading>
-	
-	<p>PHP is a <content:tt>dynamically typed</content:tt> language. It supports a number of different programming paradigms including <content:tt>imperative</content:tt> and <content:tt>object oriented</content:tt> features. PHP code is generally <content:tt>interpreted</content:tt> but several systems for producing <content:tt>compiled</content:tt> code are available.</p>
-	
-	<p>PHP is designed for developing web applications, and generally has little use in other scenarios. It is easy to integrate with a wide range of other technologies.</p>
-	
-	<h3>Why would I learn this language?</h3>
+  <header>
+    <content:heading>PHP</content:heading>
 
-	<p>PHP as an environment is very easy to deploy. It is generally combined with Linux, Apache and MySQL (a LAMP setup). This makes it ideal for simple web applications and projects.</p>
-	
-	<p>One great feature of PHP as a community is the documentation. There are fantastic resources available on the main PHP website, and there are many external resources discussing PHP programming and related topics.</p>
-	
-	<p>PHP provides integration with many other libraries, such as databases, image manipulation and network communication. However, each external library tends to have its own syntax and semantic behavior. This can make larger programs unmanageable without careful planning.</p>
-	
-	<h3>Starting Points</h3>
+    <p>PHP is a <content:tt>dynamically typed</content:tt> language. It supports a number of different programming paradigms including <content:tt>imperative</content:tt> and <content:tt>object oriented</content:tt> features. PHP code is generally <content:tt>interpreted</content:tt> but several systems for producing <content:tt>compiled</content:tt> code are available.</p>
+  </header>
 
-	<dl class="resources">
-		<dt><a href="http://en.wikibooks.org/wiki/PHP_Programming">PHP Programming Wikibook</a></dt>
-		<dd>A comprehensive guide to learning to program using PHP.</dd>
-	</dl>
-	
-	<h3>Further Reading</h3>
-	
-	<ul>
-		<li><a href="http://en.wikipedia.org/wiki/PHP">Wikipedia: PHP</a></li>
-		<li><a href="http://www.php.net/">PHP: Hypertext Preprocessor</a> (Main Website)</li>
-	</ul>
+  <main>
+    <p>PHP is designed for developing web applications, and generally has little use in other scenarios. It is easy to integrate with a wide range of other technologies.</p>
 
-	<h3>Example Code</h3>
+    <h3>Why would I learn this language?</h3>
 
-	<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzphp">here</a>.</p>
+    <p>PHP as an environment is very easy to deploy. It is generally combined with Linux, Apache and MySQL (a LAMP setup). This makes it ideal for simple web applications and projects.</p>
 
-	<content:listing src="fizz-buzz-example.txt" brush="html" />
+    <p>One great feature of PHP as a community is the documentation. There are fantastic resources available on the main PHP website, and there are many external resources discussing PHP programming and related topics.</p>
 
-	<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsphp">here</a>.</p>
-	
-	<content:listing src="100-doors-example.txt" brush="html" />
+    <p>PHP provides integration with many other libraries, such as databases, image manipulation and network communication. However, each external library tends to have its own syntax and semantic behavior. This can make larger programs unmanageable without careful planning.</p>
 
-	<comments />
+    <h3>Starting Points</h3>
+
+    <dl class="resources">
+      <dt><a href="http://en.wikibooks.org/wiki/PHP_Programming">PHP Programming Wikibook</a></dt>
+      <dd>A comprehensive guide to learning to program using PHP.</dd>
+    </dl>
+
+    <h3>Further Reading</h3>
+
+    <ul>
+      <li><a href="http://en.wikipedia.org/wiki/PHP">Wikipedia: PHP</a></li>
+      <li><a href="http://www.php.net/">PHP: Hypertext Preprocessor</a> (Main Website)</li>
+    </ul>
+
+    <h3>Example Code</h3>
+
+    <p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzphp">here</a>.</p>
+
+    <content:listing src="fizz-buzz-example.txt" brush="html" />
+
+    <p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsphp">here</a>.</p>
+
+    <content:listing src="100-doors-example.txt" brush="html" />
+
+    <content:comments />
+  </main>
 </content:page>
