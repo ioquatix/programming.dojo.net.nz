@@ -47,11 +47,16 @@
 	<h2>How were these posters made?</h2>
 	
 	<p>Several software tools and resources were used to produce these posters:</p>
-	
+	<p>Version 2.0:</p>
+	<ul>
+		<li><a href="https://www.adobe.com/nz/products/illustrator">Adobe Illustrator</a>.</li>
+		<li><a href="https://pygments.org/">RosettaCode.org</a> was used to suggest syntax highlighting.</li>
+	</ul>
+	<p>Version 1.0:</p>
 	<ul>
 		<li><a href="http://www.codeotaku.com/projects/jquery-syntax">jQuery.Syntax</a> was used to highlight the code.</li>
-		<li><a href="http://rosettacode.org/">RosettaCode.org</a> was used as a starting point for code examples.</li>
 		<li><a href="http://www.omnigroup.com/products/omnigraffle/">OmniGraffle</a> was used to design and author the actual posters.</li>
 	</ul>
+	<p><a href="http://rosettacode.org/">RosettaCode.org</a> was used as a starting point for code examples.</p>
 	
 </content:page>
