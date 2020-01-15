@@ -47,12 +47,12 @@
 	<h2>How were these posters made?</h2>
 	
 	<p>Several software tools and resources were used to produce these posters:</p>
-	<p>Version 2.0:</p>
+	<p><a href="https://github.com/ioquatix/computer-science-posters/raw/master/programming-language-posters/Programming%20Language%20Posters.pdf">Version 2.0:</a></p>
 	<ul>
 		<li><a href="https://www.adobe.com/nz/products/illustrator">Adobe Illustrator</a>.</li>
-		<li><a href="https://pygments.org/">RosettaCode.org</a> was used to suggest syntax highlighting.</li>
+		<li><a href="https://pygments.org/">Pygments.org</a> was used to suggest syntax highlighting.</li>
 	</ul>
-	<p>Version 1.0:</p>
+	<p><a href="Programming-Language-Posters-Dec2010.pdf" target="_blank">Version 1.0:</a></p>
 	<ul>
 		<li><a href="http://www.codeotaku.com/projects/jquery-syntax">jQuery.Syntax</a> was used to highlight the code.</li>
 		<li><a href="http://www.omnigroup.com/products/omnigraffle/">OmniGraffle</a> was used to design and author the actual posters.</li>
