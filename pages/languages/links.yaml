@@ -1,38 +1,54 @@
 basic:
     tags: ['imperative', 'dynamic']
+    filetype: 'png'
 c:
     tags: ['imperative', 'static']
+    filetype: 'svg'
 cpp:
     title: "C++"
     tags: ['object-oriented', 'imperative', 'static']
+    filetype: 'svg'
 haskell:
     tags: ['functional', 'static']
+    filetype: 'svg'
 java:
     tags: ['object-oriented', 'imperative', 'static']
+    filetype: 'svg'
 javascript:
     title: "JavaScript"
     tags: ['object-oriented', 'imperative', 'dynamic']
+    filetype: 'svg'
 pascal:
     tags: ['imperative', 'static']
+    filetype: 'png'
 perl:
     tags: ['object-oriented', 'imperative', 'dynamic']
+    filetype: 'svg'
 php:
     title: "PHP"
     tags: ['object-oriented', 'imperative', 'dynamic']
+    filetype: 'svg'
 python:
     tags: ['object-oriented', 'imperative', 'dynamic']
+    filetype: 'svg'
 ruby:
     tags: ['object-oriented', 'imperative', 'functional', 'dynamic']
+    filetype: 'svg'
 scheme:
     tags: ['functional', 'dynamic']
+    filetype: 'svg'
 smalltalk:
     tags: ['functional', 'dynamic', 'object-oriented']
+    filetype: 'png'
 c-sharp:
     title: "C#"
     tags: ['imperative', 'object-oriented', 'static', 'dynamic']
+    filetype: 'svg'
 scratch:
     title: "Scratch"
     tags: ['imperative', 'dynamic']
+    filetype: 'svg'
 swift:
     title: "Swift"
     tags: ['imperative', 'object-oriented', 'general-purpose', 'functional', 'static']
+    filetype: 'svg'
