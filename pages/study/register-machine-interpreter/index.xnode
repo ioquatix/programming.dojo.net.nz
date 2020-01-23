@@ -1,73 +1,77 @@
 <content:page>
-	<content:heading>Register Machine Interpreter</content:heading>
-
-	<p>A register machine is a simple programmable machine to describe any function that is computable. You can program them here!</p>
-
-	<p>Your code will have 3 second to complete execution. This might not seem like a lot of time, but it should be enough for small inputs even on complex programs.</p>
-
-	<?r func = request['function'] ?>
-
-	<form action="index" method="post" class="basic central_form">
-		<fieldset>
-			<dl>
-				<dt><label for="function">Function:</label></dt>
-				<dd><textarea name="function">#{Strings::to_html(func || "")}</textarea></dd>
-				<dd class="footer"><input type="submit" value="Compute" /></dd>
-			</dl>
-		</fieldset>
-	</form>
-
-	<?r if func != nil ?>
-		<h2>Results</h2>
-
-		<pre><code>#{RegisterMachineInterpreter.evaluate(func)}</code></pre>
-	<?r end ?>
-
-	<h2>Usage</h2>
-
-	<p>Registers can be initialised by writing lines of the form:</p>
-
-	<content:listing src="assignment.txt" />
-
-	<p>Next is the syntax for two types of instructions. Note, that the first state can be called either 'S' or '1'.</p>
-
-	<content:listing src="increment.txt" />
+	<header>
+		<content:heading>Register Machine Interpreter</content:heading>
+		
+		<p>A register machine is a simple programmable machine to describe any function that is computable. You can program them here!</p>
+	</header>
 	
-	<p>Next state can either be a state mentioned somewhere, or <code>.</code> (full stop) which indicates halt. State names can be any lower or upper case characters or numbers. Register names can be any lower or uppercase letters.</p>
+	<main>
+		<p>Your code will have 3 second to complete execution. This might not seem like a lot of time, but it should be enough for small inputs even on complex programs.</p>
 
-	<h2>Examples</h2>
+		<?r func = request['function'] ?>
 
-	<h3>Square Function</h3>
+		<form action="index" method="post" class="basic central_form">
+			<fieldset>
+				<dl>
+					<dt><label for="function">Function:</label></dt>
+					<dd><textarea name="function">#{Strings::to_html(func || "")}</textarea></dd>
+					<dd class="footer"><input type="submit" value="Compute" /></dd>
+				</dl>
+			</fieldset>
+		</form>
 
-	<p>This example calculates f(A) = A^2</p>
+		<?r if func != nil ?>
+			<h2>Results</h2>
 
-	<content:listing src="squared.txt" />
+			<pre><code>#{RegisterMachineInterpreter.evaluate(func)}</code></pre>
+		<?r end ?>
 
-	<h3>Division Function</h3>
+		<h2>Usage</h2>
 
-	<p>This example calculates N = QD + R.</p>
+		<p>Registers can be initialised by writing lines of the form:</p>
 
-	<content:listing src="divide.txt" />
+		<content:listing src="assignment.txt" />
 
-	<h3>Primality Test</h3>
+		<p>Next is the syntax for two types of instructions. Note, that the first state can be called either 'S' or '1'.</p>
 
-	<p>This example tells us if A is prime or not, and if it is not, what is the biggest divisor.</p>
+		<content:listing src="increment.txt" />
+		
+		<p>Next state can either be a state mentioned somewhere, or <code>.</code> (full stop) which indicates halt. State names can be any lower or upper case characters or numbers. Register names can be any lower or uppercase letters.</p>
 
-	<content:listing src="prime.txt" />
+		<h2>Examples</h2>
 
-	<h2>Implementation</h2>
+		<h3>Square Function</h3>
 
-	<p>Sorry, error handling isn't very good. If a line doesn't parse correctly, it will tell you that much..</p>
+		<p>This example calculates f(A) = A^2</p>
 
-	<p>This register machine interpreter is written by Samuel Williams in Ruby. </p>
+		<content:listing src="squared.txt" />
 
-	<h2>More information</h2>
+		<h3>Division Function</h3>
 
-	<p>For more information about register machine programs please see <a href="http://en.wikipedia.org/wiki/Register_machine">Wikipedia</a>. Actually, this isn't a very relevant article to the specific model used here... oh well ^_-</p>
-	
-	<ul>
-		<li><a href="http://c2.com/cgi/wiki?TuringTarpit">Turing Tarpit</a></li>
-	</ul>
-	
-	<comments />
+		<p>This example calculates N = QD + R.</p>
+
+		<content:listing src="divide.txt" />
+
+		<h3>Primality Test</h3>
+
+		<p>This example tells us if A is prime or not, and if it is not, what is the biggest divisor.</p>
+
+		<content:listing src="prime.txt" />
+
+		<h2>Implementation</h2>
+
+		<p>Sorry, error handling isn't very good. If a line doesn't parse correctly, it will tell you that much..</p>
+
+		<p>This register machine interpreter is written by Samuel Williams in Ruby. </p>
+
+		<h2>More information</h2>
+
+		<p>For more information about register machine programs please see <a href="http://en.wikipedia.org/wiki/Register_machine">Wikipedia</a>. Actually, this isn't a very relevant article to the specific model used here... oh well ^_-</p>
+		
+		<ul>
+			<li><a href="http://c2.com/cgi/wiki?TuringTarpit">Turing Tarpit</a></li>
+		</ul>
+		
+		<content:comments />
+	</main>
 </content:page>

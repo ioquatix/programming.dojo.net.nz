@@ -1,13 +1,17 @@
 <content:page>
-	<content:heading>Programming Challenges</content:heading>
+	<header>
+		<content:heading>Programming Challenges</content:heading>
+	</header>
 	
-	<h2>Project Euler</h2>
-	
-	<p><a href="http://projecteuler.net/">Project Euler</a> is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.</p>
-	
-	<h2>Code Golf</h2>
-	
-	<p><a href="http://codegolf.com/">Code Golf</a> allows you to show off your code-fu by trying to solve coding problems using the least number of keystrokes. Challenges are always open, and your entries are automatically scored so you can start playing right away!</p>
-	
-	<!-- http://www.blackbeltfactory.com/ -->
+	<main>
+		<h2>Project Euler</h2>
+		
+		<p><a href="http://projecteuler.net/">Project Euler</a> is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.</p>
+		
+		<h2>Code Golf</h2>
+		
+		<p><a href="http://codegolf.com/">Code Golf</a> allows you to show off your code-fu by trying to solve coding problems using the least number of keystrokes. Challenges are always open, and your entries are automatically scored so you can start playing right away!</p>
+		
+		<!-- http://www.blackbeltfactory.com/ -->
+	</main>
 </content:page>

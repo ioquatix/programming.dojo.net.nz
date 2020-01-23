@@ -1,21 +1,19 @@
-program-or-be-programmed:
-    order: 5
 how-do-computers-work:
-    title: "How do computers work?"
-    order: 10
+  title: "How do computers work?"
+  order: 10
 the-halting-problem:
-    order: 15
+  order: 15
 register-machine-interpreter:
-    order: 25
+  order: 25
 truth-table-generator:
-    order: 30
+  order: 30
+a-star-maze-solver:
+  title: "A* Maze Solver"
+  order: 35
 pl0-language-tools:
-    order: 40
-    title: "PL/0 Language Tools"
-algorithms:
-    title: "Basic Algorithms"
-    order: 20
+  order: 40
+  title: "PL/0 Language Tools"
 learn-ruby:
-    display: false
+  display: false
 programming-challenges:
-    order: 90
+  order: 90

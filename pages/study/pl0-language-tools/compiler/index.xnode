@@ -1,19 +1,23 @@
 <content:page>
-	<content:heading>Compiler</content:heading>
+	<header>
+		<content:heading>Compiler</content:heading>
+	</header>
 	
-	<p>The PL/0 compiler processes PL/0 source code and produces PL/0 assembly language.</p>
-	
-	<h2>Example</h2>
-	
-	<p>Here is an example PL/0 program to generate the fibonacci sequence:</p>
-	
-	<content:listing src="fibonacci_pl1.txt" brush="pascal" />
-	
-	<p>Using the PL/0 compiler we can convert this program to PL/0 assembly language:</p>
-	
-	<content:listing src="compiler.txt" brush="bash" />
-	
-	<p>The assembly code generated:</p>
-	
-	<content:listing src="fibonacci_pl1a.txt" brush="asm" />
+	<main>
+		<p>The PL/0 compiler processes PL/0 source code and produces PL/0 assembly language.</p>
+		
+		<h2>Example</h2>
+		
+		<p>Here is an example PL/0 program to generate the fibonacci sequence:</p>
+		
+		<content:listing src="fibonacci_pl1.txt" brush="pascal" />
+		
+		<p>Using the PL/0 compiler we can convert this program to PL/0 assembly language:</p>
+		
+		<content:listing src="compiler.txt" brush="bash" />
+		
+		<p>The assembly code generated:</p>
+		
+		<content:listing src="fibonacci_pl1a.txt" brush="asm" />
+	</main>
 </content:page>

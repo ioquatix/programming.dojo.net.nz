@@ -227,6 +227,82 @@ main nav {
 	margin-bottom: 2rem;
 }
 
+form label {
+	display: block;
+	margin: 0.5rem 0;
+}
+
+button, input, textarea {
+	border-radius: 0.2rem;
+	border: 0.1rem solid;
+	
+	margin: 0.2rem 0.2rem;
+	padding: 0.2rem;
+}
+
+@media(prefers-color-scheme: dark) {
+	input[type=submit] {
+		background-color: #ccc;
+	}
+
+	input[type=submit]:active {
+		background-color: #aaa;
+		border-color: #666;
+	}
+
+	input, textarea {
+		background-color: #222;
+		color: #fff;
+		border-color: #444;
+	}
+
+	input[type=submit] {
+		border-color: #aaa;
+		background-color: #444;
+		color: #ccc;
+	}
+
+	input[type=submit]:active {
+		border-color: #444;
+		background-color: #222;
+		color: white;
+	}
+}
+
+form label input, form label textarea {
+	display: block;
+	margin: 0.5rem 0;
+	padding: 0.5rem;
+}
+
+form fieldset {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+
+form fieldset.footer {
+	text-align: right;
+}
+
+form#login fieldset input {
+	max-width: 6rem;
+}
+
+form.basic input:not([type=button]):not([type=reset]):not([type=submit]) {
+	width: 70%;
+}
+
+form.basic input:invalid,
+form.basic textarea:invalid {
+	border-color: red;
+}
+
+form.basic textarea {
+	box-sizing: border-box;
+	width: 100%;
+}
+
 nav ul {
 	padding:0;
 	list-style: none;
