@@ -19,6 +19,10 @@
 	
 	<p>All content is released under the <a href="http://www.gnu.org/licenses/fdl-1.2.html">GNU Free Documentation License</a>, unless otherwise indicated.</p>
 	
+	<p>The Perl icon is generously provided by <a href="https://icons8.com/">icons8</a>.</p>
+
+	<p>The Swift logo is a trademark of Apple Inc.</p>
+	
 	<h2>Site</h2>
 	
 	<p>This site was built using <a href="http://www.oriontransfer.co.nz/software/utopia">Utopia</a>. It uses <a href="http://www.oriontransfer.co.nz/software/jquery-syntax">jQuery.Syntax</a> for syntax highlighting.</p>
