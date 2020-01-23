@@ -14,7 +14,7 @@
 		
 		<ul class="languages">
 			<?r languages.each do |language| ?>
-			<li><a href="#{language.href}" style="background-image: url(#{language[:logo-filepath]})">#{language.title}</a></li>
+			<li><a href="#{language.href}" style="background-image: url(#{language[:logo_path]})">#{language.title}</a></li>
 			<?r end ?>
 		</ul>
 		
