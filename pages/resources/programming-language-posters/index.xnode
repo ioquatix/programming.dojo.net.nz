@@ -1,62 +1,65 @@
 <content:page>
-	<content:heading>Programming Language Posters</content:heading>
+	<header>
+		<content:heading>Programming Language Posters</content:heading>
+	</header>
 	
-	<p><a href="https://github.com/ioquatix/computer-science-posters/raw/master/programming-language-posters/Programming%20Language%20Posters.pdf">Posters are available free to download</a> which can be used in the class room to stimulate questions and inquiry into different programming languages, their syntax, semantics and features.</p>
-	
-	<p>Complete sets of A3 or A4 posters are also available for purchase. Please <a href="/welcome/contact-us">contact us</a> if you are interested. We can ship anywhere in the world.</p>
-	
-	<h2>What is Fizz Buzz?</h2>
-	
-	<p>The algorithm used on the posters is the game Fizz Buzz. For more information, please see the page about <content:tt to='fizz-buzz'>Fizz Buzz</content:tt>.</p>
-	
-	<h2>How to use these posters</h2>
-	
-	<p>These posters can be used for many different things:</p>
-	
-	<ul>
-		<li>Stimulate discussion about programming languages in the class room.</li>
-		<li>Students can look at the posters and see examples of different programming languages.</li>
-		<li>The posters can be used as a starting point for further research and inquiry learning.</li>
-		<li>The algorithm <content:tt>fizz buzz</content:tt> can be used as a teaching tool for algorithmic thinking.</li>
-	</ul>
-	
-	<h3>Discussing Programming Languages</h3>
-	
-	<p>There are a multitude of different programming languages in the world, and more are being created every day. It is important that people understand that there are many ways of achieving the same goal, and the inherent biases in the tools and languages they choose.</p>
-	
-	<p>Languages differ in many key ways: syntax (the way a language is written down and interpreted), semantics (the way in which ideas are expressed and verified) and implementation (the way a program is executed or combined with other tools).</p>
-	
-	<p>The posters are a good starting point for evaluating and discussing these issues. One option is to have students evaluate each poster, and then pick a poster they like, based on the above qualities. Have the students form small groups based on their choice, and research the benefits and weaknesses of their particular choice.</p>
-	
-	<h3>Algorithmic Thinking</h3>
-	
-	<p>Often in programming, we have to read code which we did not write. Sometimes this is not even in a language that we are familiar with. This is an important skill and also helps us to appreciate the way in which we think and express our ideas.</p>
-	
-	<p>The posters all express the same game <content:tt>fizz buzz</content:tt>, which in many cases is a game that students will have not come across. Have the students divide up into even groups and assign them a poster each. Have them read the poster and do their best to come up with an explanation for how the game works.</p>
-	
-	<p>The key to this problem is that most programming languages usually have a formal syntax and semantic which is cohesive and systematic. Systematic thinking is an important part of programming and computer science.</p>
-	
-	<p>Once each group has come up with an explanation, have all the students play the game, with each student using their own understanding of the algorithm. If there is a dispute in the rules, the person must refer to their groups poster to clarify what rule has been broken.</p>
-	
-	<h3>Inquiry Learning</h3>
-	
-	<p>There are many problems people are trying to solve in the world. Many of these have roots in computer science, or use computer science as a tool for improved accuracy, speed and storage. Exposure to a wide range of different syntax and language paradigms gives students a better foundation for solving problems.</p>
-	
-	<p>Each poster has a link to this website where further resources and research material can be found. This can be used as an educational tool for learning about programming in a particular language, or in a situation where a student is evaluating several languages / frameworks for solving a particular problem.</p>
-	
-	<h2>How were these posters made?</h2>
-	
-	<p>Several software tools and resources were used to produce these posters:</p>
-	<p><a href="https://github.com/ioquatix/computer-science-posters/raw/master/programming-language-posters/Programming%20Language%20Posters.pdf">Version 2.0:</a></p>
-	<ul>
-		<li><a href="https://www.adobe.com/nz/products/illustrator">Adobe Illustrator</a>.</li>
-		<li><a href="https://pygments.org/">Pygments.org</a> was used to suggest syntax highlighting.</li>
-	</ul>
-	<p><a href="Programming-Language-Posters-Dec2010.pdf" target="_blank">Version 1.0:</a></p>
-	<ul>
-		<li><a href="http://www.codeotaku.com/projects/jquery-syntax">jQuery.Syntax</a> was used to highlight the code.</li>
-		<li><a href="http://www.omnigroup.com/products/omnigraffle/">OmniGraffle</a> was used to design and author the actual posters.</li>
-	</ul>
-	<p><a href="http://rosettacode.org/">RosettaCode.org</a> was used as a starting point for code examples.</p>
-	
+	<main>
+		<p><a href="https://github.com/ioquatix/computer-science-posters/raw/master/programming-language-posters/Programming%20Language%20Posters.pdf">Posters are available free to download</a> which can be used in the class room to stimulate questions and inquiry into different programming languages, their syntax, semantics and features.</p>
+		
+		<p>Complete sets of A3 or A4 posters are also available for purchase. Please <a href="/welcome/contact-us">contact us</a> if you are interested. We can ship anywhere in the world.</p>
+		
+		<h2>What is Fizz Buzz?</h2>
+		
+		<p>The algorithm used on the posters is the game Fizz Buzz. For more information, please see the page about <content:tt to='fizz-buzz'>Fizz Buzz</content:tt>.</p>
+		
+		<h2>How to use these posters</h2>
+		
+		<p>These posters can be used for many different things:</p>
+		
+		<ul>
+			<li>Stimulate discussion about programming languages in the class room.</li>
+			<li>Students can look at the posters and see examples of different programming languages.</li>
+			<li>The posters can be used as a starting point for further research and inquiry learning.</li>
+			<li>The algorithm <content:tt>fizz buzz</content:tt> can be used as a teaching tool for algorithmic thinking.</li>
+		</ul>
+		
+		<h3>Discussing Programming Languages</h3>
+		
+		<p>There are a multitude of different programming languages in the world, and more are being created every day. It is important that people understand that there are many ways of achieving the same goal, and the inherent biases in the tools and languages they choose.</p>
+		
+		<p>Languages differ in many key ways: syntax (the way a language is written down and interpreted), semantics (the way in which ideas are expressed and verified) and implementation (the way a program is executed or combined with other tools).</p>
+		
+		<p>The posters are a good starting point for evaluating and discussing these issues. One option is to have students evaluate each poster, and then pick a poster they like, based on the above qualities. Have the students form small groups based on their choice, and research the benefits and weaknesses of their particular choice.</p>
+		
+		<h3>Algorithmic Thinking</h3>
+		
+		<p>Often in programming, we have to read code which we did not write. Sometimes this is not even in a language that we are familiar with. This is an important skill and also helps us to appreciate the way in which we think and express our ideas.</p>
+		
+		<p>The posters all express the same game <content:tt>fizz buzz</content:tt>, which in many cases is a game that students will have not come across. Have the students divide up into even groups and assign them a poster each. Have them read the poster and do their best to come up with an explanation for how the game works.</p>
+		
+		<p>The key to this problem is that most programming languages usually have a formal syntax and semantic which is cohesive and systematic. Systematic thinking is an important part of programming and computer science.</p>
+		
+		<p>Once each group has come up with an explanation, have all the students play the game, with each student using their own understanding of the algorithm. If there is a dispute in the rules, the person must refer to their groups poster to clarify what rule has been broken.</p>
+		
+		<h3>Inquiry Learning</h3>
+		
+		<p>There are many problems people are trying to solve in the world. Many of these have roots in computer science, or use computer science as a tool for improved accuracy, speed and storage. Exposure to a wide range of different syntax and language paradigms gives students a better foundation for solving problems.</p>
+		
+		<p>Each poster has a link to this website where further resources and research material can be found. This can be used as an educational tool for learning about programming in a particular language, or in a situation where a student is evaluating several languages / frameworks for solving a particular problem.</p>
+		
+		<h2>How were these posters made?</h2>
+		
+		<p>Several software tools and resources were used to produce these posters:</p>
+		<p><a href="https://github.com/ioquatix/computer-science-posters/raw/master/programming-language-posters/Programming%20Language%20Posters.pdf">Version 2.0:</a></p>
+		<ul>
+			<li><a href="https://www.adobe.com/nz/products/illustrator">Adobe Illustrator</a>.</li>
+			<li><a href="https://pygments.org/">Pygments.org</a> was used to suggest syntax highlighting.</li>
+		</ul>
+		<p><a href="Programming-Language-Posters-Dec2010.pdf" target="_blank">Version 1.0:</a></p>
+		<ul>
+			<li><a href="http://www.codeotaku.com/projects/jquery-syntax">jQuery.Syntax</a> was used to highlight the code.</li>
+			<li><a href="http://www.omnigroup.com/products/omnigraffle/">OmniGraffle</a> was used to design and author the actual posters.</li>
+		</ul>
+		<p><a href="http://rosettacode.org/">RosettaCode.org</a> was used as a starting point for code examples.</p>
+	</main>
 </content:page>
