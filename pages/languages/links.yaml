@@ -1,54 +1,54 @@
 basic:
     tags: ['imperative', 'dynamic']
-    logo-filepath: '/languages/_static/basic.png'
+    logo_path: '/languages/_static/basic.png'
 c:
     tags: ['imperative', 'static']
-    logo-filepath: '/languages/_static/c.svg'
+    logo_path: '/languages/_static/c.svg'
 cpp:
     title: "C++"
     tags: ['object-oriented', 'imperative', 'static']
-    logo-filepath: '/languages/_static/cpp.svg'
+    logo_path: '/languages/_static/cpp.svg'
 haskell:
     tags: ['functional', 'static']
-    logo-filepath: '/languages/_static/haskell.svg'
+    logo_path: '/languages/_static/haskell.svg'
 java:
     tags: ['object-oriented', 'imperative', 'static']
-    logo-filepath: '/languages/_static/java.svg'
+    logo_path: '/languages/_static/java.svg'
 javascript:
     title: "JavaScript"
     tags: ['object-oriented', 'imperative', 'dynamic']
-    logo-filepath: '/languages/_static/javascript.svg'
+    logo_path: '/languages/_static/javascript.svg'
 pascal:
     tags: ['imperative', 'static']
-    logo-filepath: '/languages/_static/pascal.png'
+    logo_path: '/languages/_static/pascal.png'
 perl:
     tags: ['object-oriented', 'imperative', 'dynamic']
-    logo-filepath: '/languages/_static/perl.svg'
+    logo_path: '/languages/_static/perl.svg'
 php:
     title: "PHP"
     tags: ['object-oriented', 'imperative', 'dynamic']
-    logo-filepath: '/languages/_static/php.svg'
+    logo_path: '/languages/_static/php.svg'
 python:
     tags: ['object-oriented', 'imperative', 'dynamic']
-    logo-filepath: '/languages/_static/python.svg'
+    logo_path: '/languages/_static/python.svg'
 ruby:
     tags: ['object-oriented', 'imperative', 'functional', 'dynamic']
-    logo-filepath: '/languages/_static/ruby.svg'
+    logo_path: '/languages/_static/ruby.svg'
 scheme:
     tags: ['functional', 'dynamic']
-    logo-filepath: '/languages/_static/scheme.svg'
+    logo_path: '/languages/_static/scheme.svg'
 smalltalk:
     tags: ['functional', 'dynamic', 'object-oriented']
-    logo-filepath: '/languages/_static/smalltalk.png'
+    logo_path: '/languages/_static/smalltalk.png'
 c-sharp:
     title: "C#"
     tags: ['imperative', 'object-oriented', 'static', 'dynamic']
-    logo-filepath: '/languages/_static/c-sharp.svg'
+    logo_path: '/languages/_static/c-sharp.svg'
 scratch:
     title: "Scratch"
     tags: ['imperative', 'dynamic']
-    logo-filepath: '/languages/_static/scratch.svg'
+    logo_path: '/languages/_static/scratch.svg'
 swift:
     title: "Swift"
     tags: ['imperative', 'object-oriented', 'general-purpose', 'functional', 'static']
-    logo-filepath: '/languages/_static/swift.svg'
+    logo_path: '/languages/_static/swift.svg'
