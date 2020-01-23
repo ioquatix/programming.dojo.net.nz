@@ -96,10 +96,16 @@
 				<?r end ?>
 			</tbody>
 		</table>
-
-		<h2>Implementation</h2>
 		
-		<p>This truth table generator is written in ruby by Samuel Williams. It uses a unique parsing algorithm which supports arbitrary complexity operators, precedence and runs in linear time.</p>
+		<h2>Still Struggling?</h2>
+		
+		<p>Strugging with truth tables? I made this app just for you - quickly generate truth tables from any boolean logic statement - it also includes an interactive tutor that teaches you how to solve truth tables step-by-step! <a href="https://itunes.apple.com/app/truth-tables/id481591444?mt=12" target="_blank">Download Now!</a></p>
+		
+		<div class="gallery">
+			<a href="https://itunes.apple.com/app/truth-tables/id481591444?mt=12" target="_blank">
+				<img src="Truth Tables App.png" style="width: 50%" />
+			</a>
+		</div>
 		
 		<content:comments />
 	</main>
