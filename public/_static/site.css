@@ -159,9 +159,9 @@ h1.language {
 	text-align: center;
 	
 	background-repeat: no-repeat;
-	background-position: 95% center;
+	background-position: center bottom;
 	
-	padding: 50px;
+	padding: 25px 50px 105px;
 	margin-top: 1rem;
 }
 
