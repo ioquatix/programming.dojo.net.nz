@@ -1,6 +1,8 @@
 <content:page>
-	<content:heading>About This Site</content:heading>
-	
+	<header>
+		<content:heading>About This Site</content:heading>
+	</header>
+
 	<main>
 		<p>This site was designed by <a href="https://twitter.com/ioquatix" rel="me">Samuel Williams</a> as part of Computer Science Education course run by Tim Bell and Lynn Lambert. It has been designed to improve the awareness of different programming languages.</p>
 	
