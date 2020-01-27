@@ -1,37 +1,39 @@
 <content:page>
 	<content:heading>About This Site</content:heading>
 	
-	<p>This site was designed by <a href="https://twitter.com/ioquatix" rel="me">Samuel Williams</a> as part of Computer Science Education course run by Tim Bell and Lynn Lambert. It has been designed to improve the awareness of different programming languages.</p>
+	<main>
+		<p>This site was designed by <a href="https://twitter.com/ioquatix" rel="me">Samuel Williams</a> as part of Computer Science Education course run by Tim Bell and Lynn Lambert. It has been designed to improve the awareness of different programming languages.</p>
 	
-	<p>For more details regarding the research that lead to the development of this site, please see the <a href="Programming Dojo Report.pdf">report</a>.</p>
+		<p>For more details regarding the research that lead to the development of this site, please see the <a href="Programming Dojo Report.pdf">report</a>.</p>
 	
-	<h2>Title</h2>
+		<h2>Title</h2>
 	
-	<p>The title ‘Programming Dojo’ was chosen due to the nature of our goal: Programming is a pathway to a greater understanding of the universe (in a metaphysical sense). The word ‘Dojo’ is actually pronounced ‘Dou-Jyou’, and written in Japanese Kanji ‘道場’; a crude translation: ‘Dou’ means pathway, and ‘Jyou’ means place. ‘Programming Dojo’ simply means the place where one can start on the pathway of programming.</p>
+		<p>The title ‘Programming Dojo’ was chosen due to the nature of our goal: Programming is a pathway to a greater understanding of the universe (in a metaphysical sense). The word ‘Dojo’ is actually pronounced ‘Dou-Jyou’, and written in Japanese Kanji ‘道場’; a crude translation: ‘Dou’ means pathway, and ‘Jyou’ means place. ‘Programming Dojo’ simply means the place where one can start on the pathway of programming.</p>
 	
-	<h2>Content</h2>
+		<h2>Content</h2>
 	
-	<p>The programming language logos on this site are copyright their respective owners, and may be registered trademarks. They have been used in good faith, but if there is a problem please <a href="/welcome/contact-us">contact us</a> or bring it to our attention through the <a href="https://github.com/ioquatix/programming.dojo.net.nz/issues/new">issue tracker</a>.</p>
+		<p>The programming language logos on this site are copyright their respective owners, and may be registered trademarks. They have been used in good faith, but if there is a problem please <a href="/welcome/contact-us">contact us</a> or bring it to our attention through the <a href="https://github.com/ioquatix/programming.dojo.net.nz/issues/new">issue tracker</a>.</p>
 
-	<p>Full copies of licenses associated with the programming language logos can be found under the third-party-licenses directory.</p>
+		<p>Full copies of licenses associated with the programming language logos can be found under the <a href="https://github.com/ioquatix/programming.dojo.net.nz/tree/master/third-party-licenses">third-party-licenses</a> directory.</p>
 
-	<p>The Perl icon is generously provided by <a href="https://icons8.com/">icons8</a>.</p>
+		<p>The Perl icon is generously provided by <a href="https://icons8.com/">icons8</a>.</p>
 
-	<p>The Swift logo is a trademark of Apple Inc.</p>
-	
-	<p>Many source code examples were borrowed from <a href="http://rosettacode.org">Rosetta Code</a>. Thanks to those people for putting together such a wide and varied resource.</p>
-	
-	<p>The following people made significant contributions: <a href="http://www.shlomifish.org/">Shlomi Fish</a>, Stephen Bloch, David Mitchell, John Foster, Kyle Murphy, Chris Rebert, Helmut Jarausch, André Roberge and <a href="http://www.michaeladams.org/">Michael Adams</a>. Thanks for everyone's contribution and suggestions.</p>
-	
-	<p>All content is released under the <a href="http://www.gnu.org/licenses/fdl-1.2.html">GNU Free Documentation License</a>, unless otherwise indicated.</p>
-	
-	<h2>Site</h2>
-	
-	<p>This site was built using <a href="http://www.oriontransfer.co.nz/software/utopia">Utopia</a>. It uses <a href="http://www.oriontransfer.co.nz/software/jquery-syntax">jQuery.Syntax</a> for syntax highlighting.</p>
-	
-	<h2>Sponsors</h2>
-	
-	<p><a href="http://www.oriontransfer.co.nz/">My company</a> sponsors the development and hosting of this website.</p>
-	
-	<div class="gallery"><a href="http://www.oriontransfer.co.nz/"><img src="/_static/OrionTransfer.png" /></a></div>
+		<p>The Swift logo is a trademark of Apple Inc.</p>
+
+		<p>Many source code examples were borrowed from <a href="http://rosettacode.org">Rosetta Code</a>. Thanks to those people for putting together such a wide and varied resource.</p>
+
+		<p>The following people made significant contributions: <a href="http://www.shlomifish.org/">Shlomi Fish</a>, Stephen Bloch, David Mitchell, John Foster, Kyle Murphy, Chris Rebert, Helmut Jarausch, André Roberge and <a href="http://www.michaeladams.org/">Michael Adams</a>. Thanks for everyone's contribution and suggestions.</p>
+
+		<p>All content is released under the <a href="http://www.gnu.org/licenses/fdl-1.2.html">GNU Free Documentation License</a>, unless otherwise indicated.</p>
+
+		<h2>Site</h2>
+
+		<p>This site was built using <a href="http://www.oriontransfer.co.nz/software/utopia">Utopia</a>. It uses <a href="http://www.oriontransfer.co.nz/software/jquery-syntax">jQuery.Syntax</a> for syntax highlighting.</p>
+
+		<h2>Sponsors</h2>
+
+		<p><a href="http://www.oriontransfer.co.nz/">My company</a> sponsors the development and hosting of this website.</p>
+
+		<div class="gallery"><a href="http://www.oriontransfer.co.nz/"><img src="/_static/OrionTransfer.png" /></a></div>
+	</main>
 </content:page>
