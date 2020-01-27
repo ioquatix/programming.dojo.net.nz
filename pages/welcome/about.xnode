@@ -11,17 +11,19 @@
 	
 	<h2>Content</h2>
 	
-	<p>The programming language logos on this site are copyright their respective owners, and may be registered trademarks. They have been used in good faith, but if there is a problem please <a href="/welcome/contact-us">contact us</a>.</p>
+	<p>The programming language logos on this site are copyright their respective owners, and may be registered trademarks. They have been used in good faith, but if there is a problem please <a href="/welcome/contact-us">contact us</a> or bring it to our attention through the <a href="https://github.com/ioquatix/programming.dojo.net.nz/issues/new">issue tracker</a>.</p>
+
+	<p>Full copies of licenses associated with the programming language logos can be found under the third-party-licenses directory.</p>
+
+	<p>The Perl icon is generously provided by <a href="https://icons8.com/">icons8</a>.</p>
+
+	<p>The Swift logo is a trademark of Apple Inc.</p>
 	
 	<p>Many source code examples were borrowed from <a href="http://rosettacode.org">Rosetta Code</a>. Thanks to those people for putting together such a wide and varied resource.</p>
 	
 	<p>The following people made significant contributions: <a href="http://www.shlomifish.org/">Shlomi Fish</a>, Stephen Bloch, David Mitchell, John Foster, Kyle Murphy, Chris Rebert, Helmut Jarausch, André Roberge and <a href="http://www.michaeladams.org/">Michael Adams</a>. Thanks for everyone's contribution and suggestions.</p>
 	
 	<p>All content is released under the <a href="http://www.gnu.org/licenses/fdl-1.2.html">GNU Free Documentation License</a>, unless otherwise indicated.</p>
-	
-	<p>The Perl icon is generously provided by <a href="https://icons8.com/">icons8</a>.</p>
-
-	<p>The Swift logo is a trademark of Apple Inc.</p>
 	
 	<h2>Site</h2>
 	
