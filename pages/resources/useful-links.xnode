@@ -5,6 +5,12 @@
 	
 	<main>
 		<dl>
+			<dt><a href="https://csunplugged.org/en/">CS Unplugged</a></dt>
+			<dd>A collection of free teaching material that teaches computer science through engaging games and puzzles.</dd>
+
+			<dt><a href="https://csfieldguide.org.nz/en/">Computer Science Field Guide</a></dt>
+			<dd>An online interactive resource for high school students learning about computer science.</dd>
+
 			<dt><a href="http://www.levenez.com/lang/">Computer Languages Timeline</a></dt>
 			<dd>A timeline of computer programming languages available as a poster.</dd>
 			
