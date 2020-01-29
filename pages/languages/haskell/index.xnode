@@ -30,13 +30,6 @@
 			<dd>Set of resources for learning and teaching Haskell.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/Haskell_(programming_language)">Wikipedia: Haskell</a></li>
-			<li><a href="http://www.haskell.org/">Haskell</a> (Main Website)</li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzhs">here</a>.</p>
@@ -46,6 +39,13 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorshs">here</a>.</p>
 
 		<content:listing src="100-doors-example.txt" brush="haskell" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Haskell_(programming_language)">Wikipedia: Haskell</a></li>
+			<li><a href="http://www.haskell.org/">Haskell</a> (Main Website)</li>
+		</ul>
 
 		<content:comments />
 	</main>

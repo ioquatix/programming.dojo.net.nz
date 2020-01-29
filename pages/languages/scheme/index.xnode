@@ -31,15 +31,6 @@
 			<dd>A complete beginners guide to programming with Scheme and designing programs.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/Scheme_(programming_language)">Wikipedia: Scheme</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/Homoiconicity">Wikipedia: Homoiconicity</a></li>
-			<li><a href="http://www.defmacro.org/ramblings/lisp.html">The Nature of Lisp</a></li>
-			<li><a href="http://www.plai.org/">Programming Languages: Application and Interpretation</a></li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzscm">here</a>.</p>
@@ -53,6 +44,15 @@
 		<p>Here is an example of the <content:tt>100 doors</content:tt> problem implemented using imperative concepts:</p>
 
 		<content:listing src="100-doors-example-imperative.txt" brush="lisp" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Scheme_(programming_language)">Wikipedia: Scheme</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/Homoiconicity">Wikipedia: Homoiconicity</a></li>
+			<li><a href="http://www.defmacro.org/ramblings/lisp.html">The Nature of Lisp</a></li>
+			<li><a href="http://www.plai.org/">Programming Languages: Application and Interpretation</a></li>
+		</ul>
 
 		<content:comments />
 	</main>

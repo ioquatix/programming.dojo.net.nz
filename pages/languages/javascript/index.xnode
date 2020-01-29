@@ -35,14 +35,6 @@
 			<dd>A fantastic toolbox for writing simple cross-browser JavaScript code. Includes support for many advanced features.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/JavaScript">Wikipedia: JavaScript</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/Server-side_JavaScript">Wikipedia: Server-side JavaScript</a></li>
-			<li><a href="http://www.codinghorror.com/blog/2008/08/secrets-of-the-javascript-ninjas.html">Secrets of the JavaScript Ninjas</a></li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzjs">here</a>.</p>
@@ -52,6 +44,14 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsjs">here</a>.</p>
 
 		<content:listing src="100-doors-example.txt" brush="javascript" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/JavaScript">Wikipedia: JavaScript</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/Server-side_JavaScript">Wikipedia: Server-side JavaScript</a></li>
+			<li><a href="http://www.codinghorror.com/blog/2008/08/secrets-of-the-javascript-ninjas.html">Secrets of the JavaScript Ninjas</a></li>
+		</ul>
 
 		<content:comments />
 	</main>

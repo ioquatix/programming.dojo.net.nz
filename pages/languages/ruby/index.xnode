@@ -30,14 +30,6 @@
 			<dd>A tutorial and reference for the Ruby programming language.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Wikipedia: Ruby</a></li>
-			<li><a href="http://www.ruby-lang.org/">Ruby</a> (Main Website)</li>
-			<li><a href="http://www.rubyonrails.org/">Ruby on Rails</a></li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzrb">here</a>.</p>
@@ -47,6 +39,14 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsrb">here</a>.</p>
 
 		<content:listing src="100-doors-example.txt" brush="ruby" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Ruby_(programming_language)">Wikipedia: Ruby</a></li>
+			<li><a href="http://www.ruby-lang.org/">Ruby</a> (Main Website)</li>
+			<li><a href="http://www.rubyonrails.org/">Ruby on Rails</a></li>
+		</ul>
 
 		<content:comments />
 	</main>
