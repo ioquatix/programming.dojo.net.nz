@@ -25,14 +25,6 @@
 			<dd>A set of resources for learning about Smalltalk programming in the <a href="http://www.squeak.org/">Squeak</a> environment.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/Smalltalk_(programming_language)">Wikipedia: Smalltalk</a></li>
-			<li><a href="http://www.smalltalk.org">Smalltalk</a> (Main Website)</li>
-			<li><a href="http://onsmalltalk.com/why-smalltalk">Why Smalltalk</a></li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>Here is an example of the <content:tt>Fizz Buzz</content:tt> problem:</p>
@@ -42,6 +34,14 @@
 		<p>Here is an example of the <content:tt>100 doors</content:tt> problem:</p>
 
 		<content:listing src="100-doors-example.txt" brush="smalltalk" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Smalltalk_(programming_language)">Wikipedia: Smalltalk</a></li>
+			<li><a href="http://www.smalltalk.org">Smalltalk</a> (Main Website)</li>
+			<li><a href="http://onsmalltalk.com/why-smalltalk">Why Smalltalk</a></li>
+		</ul>
 
 		<content:comments />
 	</main>

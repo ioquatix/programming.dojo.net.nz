@@ -21,14 +21,6 @@
 			<dt><a href="https://www.raywenderlich.com/6338-swift-tutorial-part-1-expressions-variables-and-constants">Swift tutorial</a></dt>
 			<dd>A mini-series on getting started with programming in Swift. Learn Swift programming basics using playgrounds.</dd>
 		</dl>
-		
-		<h2>Further Reading</h2> 
-
-		<ul>
-			<li><a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Wikipedia: Swift</a></li>
-			<li><a href="https://swift.org/">Swift</a> (Main Website)</li>
-			<li><a href="https://docs.swift.org/swift-book/">About Swift</a></li>
-		</ul>
 
 		<h2>Example Code</h2>
 		
@@ -39,6 +31,14 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorsswift">here</a>.</p>
 		
 		<content:listing src="100-doors-example.txt" brush="python" />
+
+		<h2>Further Reading</h2> 
+
+		<ul>
+			<li><a href="https://en.wikipedia.org/wiki/Swift_(programming_language)">Wikipedia: Swift</a></li>
+			<li><a href="https://swift.org/">Swift</a> (Main Website)</li>
+			<li><a href="https://docs.swift.org/swift-book/">About Swift</a></li>
+		</ul>
 		
 		<content:comments />
 	</main>

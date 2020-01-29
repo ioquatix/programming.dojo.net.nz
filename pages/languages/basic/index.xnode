@@ -28,15 +28,6 @@
 			<dd>An introduction to programming for beginners.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/BASIC">Wikipedia: Basic</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/Commodore_64">Wikipedia: Commodore 64</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/QBasic">Wikipedia: QBasic</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/Visual Basic">Wikipedia: Visual Basic</a></li>
-		</ul>
-
 		<p>BASIC was developed by Microsoft into several platforms, including <content:tt>QBasic</content:tt> and <content:tt>Visual Basic</content:tt>. Visual Basic has <content:tt>object oriented</content:tt> features and includes a drag and drop user interface toolset. These tools are proprietary and generally only work on Microsoft Windows. Other dialects of BASIC exist for various platforms, such as <content:tt>REALbasic</content:tt>.</p>
 
 		<h2>Example Code</h2>
@@ -48,6 +39,15 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem.</p>
 
 		<content:listing src="100-doors-example.txt" brush="basic" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/BASIC">Wikipedia: Basic</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/Commodore_64">Wikipedia: Commodore 64</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/QBasic">Wikipedia: QBasic</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/Visual Basic">Wikipedia: Visual Basic</a></li>
+		</ul>
 
 		<content:comments />
 	</main>

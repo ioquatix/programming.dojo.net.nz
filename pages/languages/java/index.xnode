@@ -34,13 +34,6 @@
 			<dd>Practical guide for programmers who want to use the Java programming language.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/Java_(programming_language)">Wikipedia: Java</a></li>
-			<li><a href="http://www.java.com/">Java</a> (Main Website)</li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/fizzbuzzjava">here</a>.</p>
@@ -50,6 +43,13 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/100doorsjava">here</a>.</p>
 
 		<content:listing src="100-doors-example.txt" brush="java" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Java_(programming_language)">Wikipedia: Java</a></li>
+			<li><a href="http://www.java.com/">Java</a> (Main Website)</li>
+		</ul>
 
 		<content:comments />
 	</main>

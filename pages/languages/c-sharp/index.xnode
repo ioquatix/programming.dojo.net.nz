@@ -19,14 +19,6 @@
 			<dd>A short guide to C# including a Hello World example.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Wikipedia: C#</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/Mono_(software)">Wikipedia: Mono</a></li>
-			<li><a href="http://unity3d.com/">Unity 3D</a></li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzcs">here</a>.</p>
@@ -36,6 +28,14 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/100doorscs">here</a>.</p>
 
 		<content:listing src="100-doors-example.txt" brush="c-sharp" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/C_Sharp_(programming_language)">Wikipedia: C#</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/Mono_(software)">Wikipedia: Mono</a></li>
+			<li><a href="http://unity3d.com/">Unity 3D</a></li>
+		</ul>
 
 		<content:comments />
 	</main>

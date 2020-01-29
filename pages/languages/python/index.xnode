@@ -24,15 +24,6 @@
 			<dd>Learn to make a game of hangman from scratch.</dd>
 		</dl>
 
-		<h2>Further Reading</h2>
-
-		<ul>
-			<li><a href="http://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia: Python</a></li>
-			<li><a href="http://www.python.org/">Python</a> (Main Website)</li>
-			<li><a href="http://www.python.org/community/sigs/current/edu-sig/">Python in Education</a></li>
-			<li><a href="http://www.linuxjournal.com/article/3882">Why Python?</a></li>
-		</ul>
-
 		<h2>Example Code</h2>
 
 		<p>The following is an example of the <content:tt>Fizz Buzz</content:tt> problem. You can run and edit this program <a href="https://repl.it/@programmingdojo/fizzbuzzpy">here</a>.</p>
@@ -42,6 +33,15 @@
 		<p>The following is an example of the <content:tt>100 doors</content:tt> problem. You can run and edit this progam <a href="https://repl.it/@programmingdojo/100doorspy">here</a>.</p>
 
 		<content:listing src="100-doors-example.txt" brush="python" />
+
+		<h2>Further Reading</h2>
+
+		<ul>
+			<li><a href="http://en.wikipedia.org/wiki/Python_(programming_language)">Wikipedia: Python</a></li>
+			<li><a href="http://www.python.org/">Python</a> (Main Website)</li>
+			<li><a href="http://www.python.org/community/sigs/current/edu-sig/">Python in Education</a></li>
+			<li><a href="http://www.linuxjournal.com/article/3882">Why Python?</a></li>
+		</ul>
 
 		<content:comments />
 	</main>
