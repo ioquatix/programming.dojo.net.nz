@@ -6,8 +6,6 @@
 	<main>
 		<p><a href="https://github.com/ioquatix/computer-science-posters/raw/master/programming-language-posters/Programming%20Language%20Posters.pdf">Posters are available free to download</a> which can be used in the class room to stimulate questions and inquiry into different programming languages, their syntax, semantics and features.</p>
 		
-		<p>Complete sets of A3 or A4 posters are also available for purchase. Please <a href="/welcome/contact-us">contact us</a> if you are interested. We can ship anywhere in the world.</p>
-		
 		<h2>What is Fizz Buzz?</h2>
 		
 		<p>The algorithm used on the posters is the game Fizz Buzz. For more information, please see the page about <content:tt to='fizz-buzz'>Fizz Buzz</content:tt>.</p>
