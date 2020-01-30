@@ -4,3 +4,5 @@ programming-language-comparison:
     order: 20
 useful-links:
     order: 30
+about:
+    order: 40
