@@ -3,8 +3,9 @@
 
 html {
 	/* font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif; */
-	font-family: "PT Sans", Verdana, Helvetica, Arial, sans-serif;
-	font-weight: lighter;
+	/* font-family: "PT Sans", Verdana, Helvetica, Arial, sans-serif;
+	font-weight: lighter; */
+	font-family: "Noto Sans", sans-serif;
 	min-height: 100%;
 }
 
@@ -12,10 +13,10 @@ html {
 	--main-color: #111;
 	--main-background-color: #fff;
 	
-	--header-color: #eee;
+	--header-color: #1b345b; /* #eee;*/
 	--underlay-color: #ddd;
 	
-	--accent-color: #0062b3;
+	--accent-color: #1a73e8; /* #0062b3; */
 	--accent-hover-color: #33a3ff;
 	
 	--overlay-color: rgba(255, 255, 255, 0.9);
@@ -57,8 +58,12 @@ h1, h2, h3, h4, h5, p, dl {
 	margin-bottom: 2rem;
 }
 
-h1, h2 {
+h1 {
 	text-align: center;
+}
+
+h2 {
+	text-align: left;
 }
 
 img {
@@ -110,6 +115,7 @@ header {
 	overflow: auto;
 	text-align: center;
 	background-color: var(--header-color);
+	color: #fff;
 }
 
 .gallery {
@@ -222,7 +228,7 @@ h1.language {
 }
 
 nav {
-	background-color: #333;
+	background-color: #0a1932; /* #333; MIGHT NEED TO DEFINE DIFFERENT FOR DARK MODE */ 
 }
 
 main nav {
@@ -314,7 +320,7 @@ nav ul {
 	
 nav ul li {
 	display:inline-block;
-	background-color: #333;
+	background-color: #0a1932; /* #333; */
 }
 
 nav a, nav span {

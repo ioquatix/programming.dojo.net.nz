@@ -1,7 +1,7 @@
 errors:
     display: false
 welcome:
-    title: "programming.dojo.net.nz"
+    title: "Programming Dojo"
     order: 0
 languages:
     order: 1
