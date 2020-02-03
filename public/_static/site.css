@@ -2,9 +2,6 @@
 * {box-sizing: border-box;}
 
 html {
-	/* font-family: 'HelveticaNeue-Light', Helvetica, Arial, sans-serif; */
-	/* font-family: "PT Sans", Verdana, Helvetica, Arial, sans-serif;
-	font-weight: lighter; */
 	font-family: "Noto Sans", sans-serif;
 	min-height: 100%;
 }
@@ -51,6 +48,14 @@ nav ul, header > *, main {
 	display: block;
 	max-width: 50rem;
 	margin: 0 auto;
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+	nav ul, header > *, main {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
 }
 
 h1, h2, h3, h4, h5, p, dl {
@@ -228,7 +233,7 @@ h1.language {
 }
 
 nav {
-	background-color: #0a1932; /* #333; MIGHT NEED TO DEFINE DIFFERENT FOR DARK MODE */ 
+	background-color: #0a1932;
 }
 
 main nav {
@@ -320,7 +325,7 @@ nav ul {
 	
 nav ul li {
 	display:inline-block;
-	background-color: #0a1932; /* #333; */
+	background-color: #0a1932;
 }
 
 nav a, nav span {
@@ -366,3 +371,9 @@ nav ul ul ul li {
 /* Change this in order to change the Dropdown symbol */
 nav li > span:before { content:  '▼ '; }
 nav li > span:only-child:before { content: ''; }
+
+#disqus_thread {
+	border-top: 2px #0a1932 solid;
+	padding-top: 3rem !important;
+	margin-top: 3rem !important;
+}
