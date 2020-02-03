@@ -10,10 +10,10 @@ html {
 	--main-color: #111;
 	--main-background-color: #fff;
 	
-	--header-color: #1b345b; /* #eee;*/
+	--header-color: #1b345b;
 	--underlay-color: #ddd;
 	
-	--accent-color: #1a73e8; /* #0062b3; */
+	--accent-color: #1a73e8;
 	--accent-hover-color: #33a3ff;
 	
 	--overlay-color: rgba(255, 255, 255, 0.9);
