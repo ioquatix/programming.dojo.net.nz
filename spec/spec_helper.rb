@@ -1,7 +1,10 @@
+# frozen_string_literal: true
 
 require 'bundler/setup'
 require 'covered/rspec'
-require 'utopia'
+require 'variant'
+
+Variant.force!(:testing)
 
 RSpec.configure do |config|
 	# Enable flags like --only-failures and --next-failure
