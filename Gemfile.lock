@@ -36,7 +36,7 @@ GEM
       rspec-memory (~> 1.0)
     bake (0.6.0)
       samovar (~> 2.1)
-    benchmark-http (0.12.0)
+    benchmark-http (0.13.0)
       async-await
       async-http (~> 0.45)
       async-io (~> 1.5)
@@ -155,11 +155,11 @@ GEM
     thor (1.0.1)
     thread-local (1.0.0)
     timers (4.3.0)
-    trenni (3.8.0)
+    trenni (3.9.0)
       rake-compiler
     trenni-sanitize (0.5.0)
       trenni (~> 3.5)
-    utopia (2.13.2)
+    utopia (2.13.3)
       concurrent-ruby (~> 1.0)
       console (~> 1.0)
       http-accept (~> 2.1)
@@ -190,7 +190,7 @@ DEPENDENCIES
   rack-test
   rake
   rspec
-  utopia (~> 2.13.2)
+  utopia (~> 2.13.3)
   utopia-analytics
   variant
 
