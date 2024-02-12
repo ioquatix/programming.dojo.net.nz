@@ -2,25 +2,21 @@
 
 source 'https://rubygems.org'
 
-gem 'utopia', '~> 2.13'
+gem 'utopia', '~> 2.23.0'
 # gem 'utopia-gallery'
 gem 'utopia-analytics'
 
-gem 'rake'
 gem 'bake'
 gem 'variant'
 gem 'bundler'
 
 gem 'rack-test'
 
-group :development do
-	gem 'guard-falcon', require: false
-	gem 'guard-rspec', require: false
-	
-	gem 'rspec'
+group :test do
+	gem 'sus'
+	gem 'sus-fixtures-async-http'
 	gem 'covered'
 	
-	gem 'async-rspec'
 	gem 'benchmark-http'
 end
 

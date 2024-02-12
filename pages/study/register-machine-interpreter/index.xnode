@@ -8,7 +8,7 @@
 	<main>
 		<p>Your code will have 3 second to complete execution. This might not seem like a lot of time, but it should be enough for small inputs even on complex programs.</p>
 
-		<?r func = request['function'] ?>
+		<?r func = request.params['function'] ?>
 
 		<form action="index" method="post" class="basic central_form">
 			<fieldset>

@@ -10,7 +10,7 @@
 			@evaluator = TruthTableSolver::Evaluator.new
 		?>
 		
-		<?r func = request['func'] ?>
+		<?r func = request.params['func'] ?>
 		
 		<form action="index" method="post">
 			<fieldset>

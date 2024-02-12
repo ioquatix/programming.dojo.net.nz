@@ -46,7 +46,7 @@
 			<li><a href="http://en.wikipedia.org/wiki/BASIC">Wikipedia: Basic</a></li>
 			<li><a href="http://en.wikipedia.org/wiki/Commodore_64">Wikipedia: Commodore 64</a></li>
 			<li><a href="http://en.wikipedia.org/wiki/QBasic">Wikipedia: QBasic</a></li>
-			<li><a href="http://en.wikipedia.org/wiki/Visual Basic">Wikipedia: Visual Basic</a></li>
+			<li><a href="http://en.wikipedia.org/wiki/Visual%20Basic">Wikipedia: Visual Basic</a></li>
 		</ul>
 
 		<content:comments />
