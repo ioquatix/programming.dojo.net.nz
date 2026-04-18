@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'utopia', '~> 2.24'
 # gem 'utopia-gallery'
 gem 'utopia-analytics'
+gem 'async-service-supervisor'
 
 gem 'bake'
 gem 'variant'
